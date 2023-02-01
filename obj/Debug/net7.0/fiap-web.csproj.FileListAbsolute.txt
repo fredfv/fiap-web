@@ -1,0 +1,15 @@
+D:\FiapProjects\fiap-web\bin\Debug\net7.0\fiap-web.exe
+D:\FiapProjects\fiap-web\bin\Debug\net7.0\fiap-web.deps.json
+D:\FiapProjects\fiap-web\bin\Debug\net7.0\fiap-web.runtimeconfig.json
+D:\FiapProjects\fiap-web\bin\Debug\net7.0\fiap-web.dll
+D:\FiapProjects\fiap-web\bin\Debug\net7.0\fiap-web.pdb
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.csproj.AssemblyReference.cache
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.GeneratedMSBuildEditorConfig.editorconfig
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.AssemblyInfoInputs.cache
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.AssemblyInfo.cs
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.csproj.CoreCompileInputs.cache
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.dll
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\refint\fiap-web.dll
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.pdb
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.genruntimeconfig.cache
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\ref\fiap-web.dll
