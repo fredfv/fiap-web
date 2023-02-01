@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pJkHM+gG4kFIjNXlQ5P89srtk8tgpxAdAHpgYY/2+Bs=",
+  "Source": "fiap-web",
+  "BasePath": "_content/fiap-web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

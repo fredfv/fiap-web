@@ -13,3 +13,12 @@ D:\FiapProjects\fiap-web\obj\Debug\net7.0\refint\fiap-web.dll
 D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.pdb
 D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.genruntimeconfig.cache
 D:\FiapProjects\fiap-web\obj\Debug\net7.0\ref\fiap-web.dll
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\fiap-web.MvcApplicationPartsAssemblyInfo.cache
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\staticwebassets\msbuild.fiap-web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\staticwebassets\msbuild.build.fiap-web.props
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.fiap-web.props
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.fiap-web.props
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\staticwebassets.build.json
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\staticwebassets.development.json
+D:\FiapProjects\fiap-web\obj\Debug\net7.0\scopedcss\bundle\fiap-web.styles.css
