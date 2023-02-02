@@ -4,6 +4,8 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+app.UseStaticFiles();
+
 //Name all routes
 //Start from most specific to least specific
 app.UseRouting();
