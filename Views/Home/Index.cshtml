@@ -1,9 +1,12 @@
-﻿<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title></title>
-</head>
-<body>
-<h1>Olá Fiap</h1>
-    
-</body>
-</html>
+﻿@model HomeViewModel
+@{
+    Layout = "_Layout";
+}
+
+    <h1>Olá Fiap</h1>
+    <h1>View Data @ViewData["aluno"]</h1>
+    <h1>View Data @ViewData["tipo"]</h1>
+    <h1>View Bag @ViewBag.tipo</h1>
+
+    <h1>Model @Model.NomeAluno</h1>
+    <h1>Model @Model.CategoriaProduto</h1>

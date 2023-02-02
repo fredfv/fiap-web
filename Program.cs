@@ -8,7 +8,7 @@ var app = builder.Build();
 //Start from most specific to least specific
 app.UseRouting();
 app.MapControllerRoute(
-    name: "padraodoproduto",
+    name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 
